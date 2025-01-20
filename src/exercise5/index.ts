@@ -1,5 +1,5 @@
 import * as readlineSync from 'readline-sync';
-import { colorize } from '../utils/colorize'; // Importando a função colorize
+import { colorize } from '../utils/colorize';
 
 function inverterString(str: string): string {
   let resultado = '';

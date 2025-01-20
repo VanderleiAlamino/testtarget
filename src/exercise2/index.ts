@@ -1,5 +1,5 @@
 import * as readlineSync from 'readline-sync';
-import { colorize } from '../utils/colorize'; // Importando a função colorize
+import { colorize } from '../utils/colorize';
 
 function fibonacci(n: number): boolean {
   let a = 0, b = 1;
