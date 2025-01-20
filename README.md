@@ -33,4 +33,4 @@ Isso irá rodar todos os arquivos JavaScript correspondente na pasta `dist`.
 ---
 
 *Desenvolvido por Vanderlei José Alamino*
-```
+
